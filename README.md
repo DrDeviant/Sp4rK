@@ -7,7 +7,7 @@
     <h1>Modo de uso: (Debian e derivados)</h1>
 
  
-   ```
+    ```
     apt install python -y
     apt install python2 -y
     apt install python3 -y
@@ -16,7 +16,6 @@
     git clone https://github.com/Black-Hell-Team/Sp4rK
     cd Sp4rK
     python3 main.py
-
     ```
 
 
@@ -27,7 +26,7 @@
     <h1>How to use: (Debian and derivatives)</h1>
 
  
-   ```
+    ```
     apt install python -y
     apt install python2 -y
     apt install python3 -y
