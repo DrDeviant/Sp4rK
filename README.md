@@ -8,14 +8,14 @@
 
  
     ```
-    apt install python -y
-    apt install python2 -y
-    apt install python3 -y
-    apt install python3-pip -y
-    apt install git -y
-    git clone https://github.com/Black-Hell-Team/Sp4rK
-    cd Sp4rK
-    python3 main.py
+     apt install python -y
+     apt install python2 -y
+     apt install python3 -y
+     apt install python3-pip -y
+     apt install git -y
+     git clone https://github.com/Black-Hell-Team/Sp4rK
+     cd Sp4rK
+     python3 main.py
     ```
 
 
@@ -27,13 +27,13 @@
 
  
     ```
-    apt install python -y
-    apt install python2 -y
-    apt install python3 -y
-    apt install git -y
-    git clone https://github.com/Black-Hell-Team/Sp4rK
-    cd Sp4rK
-    python3 main.py
+     apt install python -y
+     apt install python2 -y
+     apt install python3 -y
+     apt install git -y
+     git clone https://github.com/Black-Hell-Team/Sp4rK
+     cd Sp4rK
+     python3 main.py
 
     ```
 
