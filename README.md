@@ -6,7 +6,7 @@
     <h3>Sp4rK é uma tool feita em Python, ela tem 2 funções, a função CheckPort que basicamente você passa um IP e uma PORTA e ela te mostra se essa porta esta aberta ou não, e a função PortScan que no caso ela realiza um scan no IP e mostra as portas abertas segundo a lista de portas definidas no codigo fonte</h3>
     <h1>Modo de uso: (Debian e derivados)</h1>
 
-     ```
+     ```sh
 
      apt install python -y
      apt install python2 -y
@@ -25,7 +25,7 @@
     <h1>How to use: (Debian and derivatives)</h1>
 
  
-     ```
+     ```sh
 
      apt install python -y
      apt install python2 -y
