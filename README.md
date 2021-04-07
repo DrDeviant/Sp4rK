@@ -18,6 +18,8 @@
     python3 main.py
 
     ```
+
+
 </details>
 <details>
     <summary>🌐 EN-US</summary>
@@ -35,6 +37,7 @@
     python3 main.py
 
     ```
+
 </details>
 
 <hr>
