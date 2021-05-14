@@ -133,7 +133,7 @@ try:
             clear()
             print(f"""\033[1;101m\033[1;97m{random_phrase()}\033[0;0m
 
-\033[1;101m\033[1;97m[•] Coded by: Near Shelby
+\033[1;101m\033[1;97m[•] Coded by: Jo Power Tech
 [•] Github ORG: https://github.com/Black-Hell-Team
 [•] Black Hell Team\n\033[0;0m""")
 
